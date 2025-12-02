@@ -1,3 +1,5 @@
+# AI SLOP WARNING: 95% AI generated code for hackathon purposes
+
 #### Algae bloom data source
 
 Install python packages:
